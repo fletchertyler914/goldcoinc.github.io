@@ -1,0 +1,1 @@
+# goldcoinc.github.io
