@@ -2245,7 +2245,7 @@
 		/* Basic */
 
 			body {
-				background-color: #29b6f6;
+				background-color: #29b6f6   ;
 				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
