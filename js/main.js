@@ -247,7 +247,7 @@
 		/* MAILCHIMP */
 		$('.mailchimp').ajaxChimp({
 			callback: mailchimpCallback,
-			url: "mailchimp-post-url" //Replace this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
+			url: "http://eepurl.com/b5vbOH" //Replace this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
 		});
 
 		function mailchimpCallback(resp) {
